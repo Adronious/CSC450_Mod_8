@@ -1,2 +1,3 @@
 # CSC450_Mod_8
-Simple multiple thread counting program
+A simple multiple thread counting program
+Made for class associated with CSC450
